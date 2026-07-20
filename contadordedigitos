@@ -1,0 +1,3 @@
+numero = input("Ingresa un número: ")
+
+print("Cantidad de dígitos:", len(numero))
